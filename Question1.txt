@@ -1,0 +1,8 @@
+The purpose of the type () function 
+
+
+the type() function is a built-in function used to identify and display(with the help of a aprint function) the type of a variable/data in python.  i.e int, boolean etc.
+
+
+variables are used to store values in other to access them later.
+
